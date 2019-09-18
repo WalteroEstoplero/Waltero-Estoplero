@@ -1,3 +1,0 @@
-Git-Test001.txt
-Wurde geändert 20:52
-On branch master
