@@ -1,4 +1,4 @@
 Git-Test001.txt
-Wurde geändert 20:52
+Wurde geändert 18.09.2019
 On branch master
-Zeile hinzugefügt 18:26
+Zeile hinzugefügt 18:29
