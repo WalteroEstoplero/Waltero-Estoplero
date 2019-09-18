@@ -1,4 +1,4 @@
-Git-Test001.txt Nochn Text
+Git-Test001.txt Nochn Text0
 Wurde geändert 18.09.2018
 Noch ne Zeile vorher
 asdf
