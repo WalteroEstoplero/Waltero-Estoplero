@@ -1,5 +1,0 @@
-Git-Test001.txt Nochn Text0
-Wurde geändert 18.09.2041
-Noch ne Zeile vorher
-On NeuerBranch
-Zeile hinzugefügt 18:38
